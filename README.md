@@ -158,18 +158,6 @@ Key observations from the analysis include:
 
 ---
 
-# Future Improvements
-
-Potential future enhancements include:
-
-* Hypothesis testing and statistical significance analysis
-* Predictive modeling of treatment outcomes
-* Interactive dashboards using Plotly or Tableau
-* Advanced longitudinal analysis of tumor progression
-* Machine learning approaches for treatment evaluation
-
----
-
 # Disclaimer
 
 This project was completed for educational and portfolio purposes.
